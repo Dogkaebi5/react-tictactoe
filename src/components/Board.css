@@ -1,0 +1,14 @@
+.board-wrapper{
+  border: 1px solid rgba(255,255,255,.1);
+  box-shadow: rgba(0,0,0,.1);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.status {
+  margin-bottom: 10px;
+}
+.board-row {
+  display: flex;
+  flex-direction: row;
+}
