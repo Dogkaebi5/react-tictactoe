@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dogkaebi5/react-tictactoe/static/css/main.6a686604.css",
+    "main.js": "/Dogkaebi5/react-tictactoe/static/js/main.f0d629ef.js",
+    "static/js/787.6b0bed1b.chunk.js": "/Dogkaebi5/react-tictactoe/static/js/787.6b0bed1b.chunk.js",
+    "index.html": "/Dogkaebi5/react-tictactoe/index.html",
+    "main.6a686604.css.map": "/Dogkaebi5/react-tictactoe/static/css/main.6a686604.css.map",
+    "main.f0d629ef.js.map": "/Dogkaebi5/react-tictactoe/static/js/main.f0d629ef.js.map",
+    "787.6b0bed1b.chunk.js.map": "/Dogkaebi5/react-tictactoe/static/js/787.6b0bed1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a686604.css",
+    "static/js/main.f0d629ef.js"
+  ]
+}
